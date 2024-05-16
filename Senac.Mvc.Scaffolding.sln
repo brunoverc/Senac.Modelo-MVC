@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Senac.Mvc.Scaffolding", "Senac.Mvc.Scaffolding\Senac.Mvc.Scaffolding.csproj", "{987DFD5C-DF3C-41A2-B74E-25AEC9BDD9FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Senac.Mvc.Core", "Senac.Mvc.Core\Senac.Mvc.Core.csproj", "{7DECE993-F633-4BF4-8E5E-F8C72F918DBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{987DFD5C-DF3C-41A2-B74E-25AEC9BDD9FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{987DFD5C-DF3C-41A2-B74E-25AEC9BDD9FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{987DFD5C-DF3C-41A2-B74E-25AEC9BDD9FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{987DFD5C-DF3C-41A2-B74E-25AEC9BDD9FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DECE993-F633-4BF4-8E5E-F8C72F918DBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DECE993-F633-4BF4-8E5E-F8C72F918DBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DECE993-F633-4BF4-8E5E-F8C72F918DBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DECE993-F633-4BF4-8E5E-F8C72F918DBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1AF0229B-81E0-40BD-910B-7B62C2EAC47C}
+	EndGlobalSection
+EndGlobal
